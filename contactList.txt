@@ -1,0 +1,30 @@
+Name:  olu
+
+Phone Number: 1111
+
+Email: swdwd
+
+Contact Type: FamilyAndFriends
+
+Created at: 1/16/2024 1:47:50 PM
+
+Name:  werey
+
+Phone Number: 2222
+
+Email: dwfwfw
+
+Contact Type: WorkOrBusiness
+
+Created at: 1/16/2024 1:48:14 PM
+
+Name:  look
+
+Phone Number: 3333
+
+Email: wdwdwdw
+
+Contact Type: FamilyAndFriends
+
+Created at: 1/16/2024 1:48:31 PM
+
